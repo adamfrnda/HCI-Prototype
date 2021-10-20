@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Oct 2021 14:34:15 at https://president-university23.odoo.com/#scrollTop=0 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://president-university23.odoo.com/#scrollTop=0 -O1 "C:\My Web Sites\Flower's" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:34:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+14:34:33	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/scrollTop=0 (from primary/primary)
+14:35:56	Error: 	"NOT FOUND" (404) at link https://president-university23.odoo.com/'/web/image/website.s_cover_default_image' (from https://president-university23.odoo.com/)
+14:35:56	Error: 	"NOT FOUND" (404) at link https://president-university23.odoo.com/"/web_editor/shape/web_editor/Wavy/01_001.svg?c3=%23FFFFFF%22 (from https://president-university23.odoo.com/)
+14:35:56	Error: 	"NOT FOUND" (404) at link https://president-university23.odoo.com/website/social/github (from https://president-university23.odoo.com/)
+14:35:56	Error: 	"NOT FOUND" (404) at link https://president-university23.odoo.com/website/social/twitter (from https://president-university23.odoo.com/)
+14:35:56	Error: 	"NOT FOUND" (404) at link https://president-university23.odoo.com/website/social/instagram (from https://president-university23.odoo.com/)
+14:35:56	Error: 	"NOT FOUND" (404) at link https://president-university23.odoo.com/website/social/linkedin (from https://president-university23.odoo.com/)
+14:35:56	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/scrollTop=0 (from primary/primary)
+14:36:03	Error: 	"NOT FOUND" (404) at link https://president-university23.odoo.com/'/web/image/website.s_banner_default_image' (from https://president-university23.odoo.com/contactus)
+14:36:03	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/scrollTop=0 (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 48 seconds : 352 links scanned, 340 files written (10846391 bytes overall) [10323609 bytes received at 95588 bytes/sec], 961505 bytes transferred using HTTP compression in 22 files, ratio 21%, 51.1 requests per connection
+(9 errors, 2 warnings, 0 messages)

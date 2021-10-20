@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+president-university23.odoo.com	TRUE	/	FALSE	1999999999	frontend_lang	en_US
+president-university23.odoo.com	TRUE	/	FALSE	1999999999	visitor_uuid	f228e54f9ab548839f5d2d7eeb8666bb
+president-university23.odoo.com	TRUE	/	FALSE	1999999999	session_id	ddbf5156b978c2c9dd96597f16c73ff65e6ce83c
+
